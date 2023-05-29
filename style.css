@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(151, 20, 6);
+}
+
+.container{
+    border:  5px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    height: 300px;
+    width: 300px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(0, 0, 0);
+}
